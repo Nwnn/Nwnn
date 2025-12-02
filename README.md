@@ -25,7 +25,7 @@ Node.js:
 * 実験用ラックサーバ構築、OS・アプリ導入から運用保守 
 * Cisco/Yamahaルータによる研究室ネットワーク・VPN設計・構築    
 
-#### 成果（代表発表・論文）
+#### 成果
 * Study on Distributed Models Combining Method for Performance and Efficiency, ICNC 2025 (査読あり国際会議)
 * Research on Selective Combination of Distributed Machine Learning Models, SN Computer Science (査読ありジャーナル, 2022年8月)
 * 国内発表など多数
